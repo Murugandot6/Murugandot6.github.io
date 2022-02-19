@@ -13,12 +13,12 @@ var getCurrentTime = function() {
 }
 var messages = [
   'Hey there 👋',
-  'I\'m Julian',
-  'I design and code things on the web',
-  'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@julian.gr;">hello@julian.gr</a>',
-  'Or<br><a target="_blank" href="#">twitter.com/juliangarnier</a><br><a target="_blank" href="#">codepen.io/juliangarnier</a><br><a target="_blank" href="#">github.com/juliangarnier</a>',
+  'I\'m Murugan',
+  'I think and dream',
+  'You can contact me at <a href="mailto:hoimurugan@gmail.com;">hoimurugan@gmail.com</a>',
+  'Or<br><a target="_blank" href="#">t.me/imurugan</a><br>
   getCurrentTime(),
-  'J.'
+  'μ.'
 ];
 
 
@@ -124,5 +124,4 @@ var sendMessages = function() {
   ++messageIndex;
   setTimeout(sendMessages, (message.length * typingSpeed) + anime.random(900, 1200));
 }
-
 sendMessages();
