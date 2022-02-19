@@ -23,12 +23,13 @@ window.onload = function() {
 
   var messages = [
     'Hey there 👋',
-    'I\'m Julian',
-    'I design and code things on the web',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@julian.gr">hello@julian.gr</a>',
+    'I\'m Murugan',
+    'I think and dream',
+    'I wanted to name my real name as Telegram username.<br> But I can not, so I created own telegram <a href="chat.murugan.eu.org">chat.murugan.eu.org </a>',
     '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
     getCurrentTime(),
     '👀 J.'
+ 
   ]
 
   var getFontSize = function() {
