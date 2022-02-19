@@ -26,9 +26,11 @@ window.onload = function() {
     'I\'m Murugan',
     'I think and dream',
     'I wanted to name my real name as Telegram username.<br> But I can not, so I created own telegram <a href="chat.murugan.eu.org">chat.murugan.eu.org </a>',
-    '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
+    'I bored.<br> so I created (copied *wink*) game <a href="wordle.murugan.eu.org">wordle.murugan.eu.org </a>',
+    'Professional?<br> say Hi! <a href="mailto: hoimurugan@gmail.com">hoimurugan@gmail.com </a>',
+    
     getCurrentTime(),
-    '👀 J.'
+    '👀 μ.'
  
   ]
 
