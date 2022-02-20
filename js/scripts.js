@@ -25,15 +25,17 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Murugan',
     'I think and dream',
-    'I wanted to name my real name as Telegram username.<br> But I can not, so I created own telegram <a href="chat.murugan.eu.org">chat.murugan.eu.org </a>',
-    'I bored.<br> so I created (copied *wink*) game <a href="wordle.murugan.eu.org">wordle.murugan.eu.org </a>',
-    'Professional?<br> say Hi! <a href="mailto: hoimurugan@gmail.com">hoimurugan@gmail.com </a>',
-    
+    'My name is already taken in Telegram username.<br> So I created my own Telegram <a target="_blank" href="https://chat.murugan.eu.org">chat.murugan.eu.org</a>',
+    'In my boredom I created(copied 😉) my own game.<a target="_blank" href="https://wordle.murugan.eu.org">wordle.murugan.eu.org</a> ',
+    'Look at my own OS😅 .<a target="_blank" href="https://ubuntu.murugan.eu.org">ubuntu.murugan.eu.org</a> ',
+    'You can find me in <a target="_blank" href="https://t.me/imurugan">t.me/iMurugan</a> ',
+    'Professional? <a href="mailto:hoimurugan@gmail.com">hoimurugan@gmail.com</a>',
     getCurrentTime(),
+   'World is Round, Will meet you soon...',
+    'Tata...bye bye...cherrssssss',
     '👀 μ.'
- 
   ]
-
+    
   var getFontSize = function() {
     return parseInt(getComputedStyle(document.body).getPropertyValue('font-size'));
   }
